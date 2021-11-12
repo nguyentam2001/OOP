@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/24227980/c-copy-constructor-for-class-with-dynamically-allocated-array

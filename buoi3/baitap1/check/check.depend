@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1601565939 source:f:\oppc++\buoi3\baitap1\check\main.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<windows.h>
+

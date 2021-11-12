@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605747835 source:f:\oppc++\buoi7\bai43\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
